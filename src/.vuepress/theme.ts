@@ -46,9 +46,9 @@ export default hopeTheme({
     comment: {
       provider: "Giscus",
       repo: "YuandongYong/YuandongYong.github.io",
-      repoId: "R_kgDOSuo2Tg",
+      repoId: "R_kgDOSu5WCw",
       category: "Announcements",
-      categoryId: "DIC_kwDOSuo2Ts4C-nKs",
+      categoryId: "DIC_kwDOSu5WC84C-o-i",
     },
 
     // All features are enabled for demo, only preserve features you need here
