@@ -1,0 +1,63 @@
+import { hopeTheme } from "vuepress-theme-hope";
+import { zhNavbar } from "./navbar/index.js";
+import { zhSidebar } from "./sidebar/index.js";
+
+export default hopeTheme({
+  hostname: "https://onvif.org.cn",
+  logo: "/logo.svg",
+  favicon: "/favicon.ico",
+  iconAssets: "fontawesome-with-brands",
+
+  author: {
+    name: "YuandongYong",
+    url: "https://onvif.org.cn",
+  },
+  repo: "YuandongYong/YuandongYong.github.io",
+  docsRepo: "YuandongYong/YuandongYong.github.io",
+  docsDir: "src",
+
+  navbarLayout: {
+    start: ["Brand"],
+    center: [],
+    end: ["Links", "Language", "Repo", "Outlook", "Search"],
+  },
+
+  locales: {
+    "/": {
+      // navbar
+      navbar: zhNavbar,
+
+      // sidebar
+      sidebar: zhSidebar,
+
+      footer: "MIT Licensed",
+
+      displayFooter: true,
+
+      // page meta
+      metaLocales: {
+        editLink: "在 GitHub 上编辑此页",
+      },
+    },
+  },
+
+  plugins: {
+    // You should generate and use your own comment service
+    comment: {
+      provider: "Giscus",
+      repo: "YuandongYong/YuandongYong.github.io",
+      repoId: "R_kgDOSuo2Tg",
+      category: "Announcements",
+      categoryId: "DIC_kwDOSuo2Ts4C-nKs",
+    },
+
+    // All features are enabled for demo, only preserve features you need here
+    mdEnhance: {
+      figure: true,
+      imgLazyload: true,
+      imgSize: true,
+      mermaid: true,
+      tabs: true,
+    },
+  },
+});

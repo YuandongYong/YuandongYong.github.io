@@ -1,0 +1,71 @@
+---
+home: true
+icon: home
+title: 首页
+description: 一个基于ONVIF的非官方中文社区.
+heroImage: /logo.png
+bgImageStyle:
+  background-attachment: fixed
+heroText: ONVIF中文社区
+tagline: 一个基于ONVIF的非官方中文社区.
+actions:
+  - text: 如何使用💡
+    link: ./tutorial/
+    type: primary
+
+  - text: 文档
+    link: ./guide/
+
+highlights:
+  - header: 特性
+    description: 该项目是一个非官方ONVIF中文社区，旨在分享和研讨官方ONVIF协议相关标准内容，并且基于ONVIF协议自研一套标准的IPCamera SDK.
+    image: /assets/image/features.svg
+    bgImageStyle:
+      background-repeat: repeat
+      background-size: initial
+    features:
+      - title: 支持多厂商
+        icon: box-archive
+        details: 支持国内外主流厂商IPC包括但不限于海康/大华/宇视/华为/科达/天地伟业/蛙视/安讯视/博士/索尼等.
+
+      - title: 高并发与高性能
+        icon: bolt
+        details: SDK采用多线程/面向对象模型开发,提供卓越的并发性能,支持海量设备接入.
+
+      - title: 稳定的生产环境使用
+        icon: microscope
+        details: SDK代码经过广泛的稳定性和性能测试,在生产环境中得到广泛应用.
+
+      - title: 跨平台兼容性
+        icon: linux
+        details: SDK支持包括Linux、macOS、iOS、Android、Windows、Kylin、UOS等国产化Linux Desktop在内的所有主要平台.
+
+      - title: 多指令集平台支持
+        icon: microchip
+        details: SDK支持多种指令集平台，如x86_64、aarch64、mipsel64、loongarch.
+
+      - title: 用于集成的标准C API
+        icon: code
+        details: 提供全面的自研标准C API,可用作SDK或被其他语言调用.
+
+      - title: 自研标准协议SDK
+        icon: video
+        details: 国标协议STDgbSDK/ONVIF协议STDevSDK/RFC流媒体协议STDavSDK.
+
+      - title: 完善的编解码器支持
+        icon: box-open
+        details: SDK全面支持RTSP H265/H264/AAC/G711/OPUS/ Payload Type转封装.
+
+      - title: 完善的流数据模式
+        icon: truck-fast
+        details: SDK可按需回调、可被动转发、可主动推流 RTP over TCP/UDP
+
+      - title: 持续扩展项目
+        icon: magnifying-glass
+        details: 包括但不限于点播/直播/会议/网络电话等领域.
+
+copyright: false
+footer:
+  Theme by <a href="https://theme-hope.vuejs.press/" target="_blank">VuePress Theme Hope</a> | MIT Licensed,
+  Copyright © 2026-06-06-present ONVIF中文社区
+---
