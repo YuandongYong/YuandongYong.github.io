@@ -43,13 +43,13 @@ export default hopeTheme({
 
   plugins: {
     // You should generate and use your own comment service
-    comment: {
-      provider: "Giscus",
-      repo: "YuandongYong/YuandongYong.github.io",
-      repoId: "R_kgDOSu5WCw",
-      category: "Announcements",
-      categoryId: "DIC_kwDOSu5WC84C-o-i",
-    },
+    // comment: {
+    //   provider: "Giscus",
+    //   repo: "YuandongYong/YuandongYong.github.io",
+    //   repoId: "R_kgDOSu5WCw",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOSu5WC84C-o-i",
+    // },
 
     // All features are enabled for demo, only preserve features you need here
     mdEnhance: {
