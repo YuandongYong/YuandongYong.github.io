@@ -46,7 +46,7 @@ highlights:
 
       - title: 编解码工具研究
         icon: box-open
-        details: 基于CPU软编解码和GPU硬编解码FFmpeg音视频编解码方案。
+        details: FFmpeg/GStreamer音视频编解码框架。
 
 copyright: false
 footer:
