@@ -24,45 +24,29 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: 支持多厂商
+      - title: ONVIF协议研究
         icon: box-archive
-        details: 支持国内外主流厂商IPC包括但不限于海康/大华/宇视/华为/科达/天地伟业/蛙视/安讯视/博士/索尼等.
+        details: 专注于官方ONVIF协议文档解读，调研主流厂商ONVIF协议实现情况。
 
-      - title: 高并发与高性能
+      - title: GB/T28181协议研究
         icon: bolt
-        details: SDK采用多线程/面向对象模型开发,提供卓越的并发性能,支持海量设备接入.
+        details: 专注于官方GB/T28181协议文档解读，调研主流厂商ONVIF协议实现情况。
 
-      - title: 稳定的生产环境使用
+      - title: 网络传输协议研究
         icon: microscope
-        details: SDK代码经过广泛的稳定性和性能测试,在生产环境中得到广泛应用.
+        details: 包含但不限于RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络协议。
 
-      - title: 跨平台兼容性
+      - title: 编解码协议研究
         icon: linux
-        details: SDK支持包括Linux、macOS、iOS、Android、Windows、Kylin、UOS等国产化Linux Desktop在内的所有主要平台.
+        details: 包含但不限于H265/H264/AAC/G711/OPUS/等编解码器。
 
-      - title: 多指令集平台支持
+      - title: 流媒体项目研究
         icon: microchip
-        details: SDK支持多种指令集平台，如x86_64、aarch64、mipsel64、loongarch.
+        details: 包含但不限于Live555/ZLMediaKit/SRS/Janus等项目。
 
-      - title: 用于集成的标准C API
-        icon: code
-        details: 提供全面的自研标准C API,可用作SDK或被其他语言调用.
-
-      - title: 自研标准协议SDK
-        icon: video
-        details: 国标协议STDgbSDK/ONVIF协议STDevSDK/RFC流媒体协议STDavSDK.
-
-      - title: 完善的编解码器支持
+      - title: 编解码工具研究
         icon: box-open
-        details: SDK全面支持RTSP H265/H264/AAC/G711/OPUS/ Payload Type转封装.
-
-      - title: 完善的流数据模式
-        icon: truck-fast
-        details: SDK可按需回调、可被动转发、可主动推流 RTP over TCP/UDP
-
-      - title: 持续扩展项目
-        icon: magnifying-glass
-        details: 包括但不限于点播/直播/会议/网络电话等领域.
+        details: 基于CPU软编解码和GPU硬编解码FFmpeg音视频编解码方案。
 
 copyright: false
 footer:
