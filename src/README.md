@@ -34,19 +34,19 @@ highlights:
 
       - title: 网络传输协议研究
         icon: microscope
-        details: 包含但不限于RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络协议。
+        details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络协议。
 
       - title: 编解码协议研究
         icon: linux
-        details: 包含但不限于H265/H264/AAC/G711/OPUS/等编解码器。
+        details: H265/H264/AAC/G711/OPUS/等编解码器。
 
       - title: 流媒体项目研究
         icon: microchip
-        details: 包含但不限于Live555/ZLMediaKit/SRS/Janus等项目。
+        details: WebRTC/LIVE555/ZLMediaKit等项目。
 
-      - title: 编解码工具研究
+      - title: 编解码框架研究
         icon: box-open
-        details: FFmpeg/GStreamer音视频编解码框架。
+        details: FFmpeg over CPU/GPU（英伟达|华为|寒武纪）编解码框架。
 
 copyright: false
 footer:
