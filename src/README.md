@@ -9,12 +9,12 @@ bgImageStyle:
 heroText: ONVIF中文社区
 tagline: 一个基于ONVIF的非官方中文社区.
 actions:
-  - text: 如何使用💡
-    link: ./tutorial/
+  - text: 免费专区💡
+    link: ./reference/
     type: primary
 
-  - text: 文档
-    link: ./guide/
+  - text: 快速开始
+    link: ./tutorial/
 
 highlights:
   - header: 特性

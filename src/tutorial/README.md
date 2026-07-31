@@ -27,7 +27,8 @@ icon: lightbulb
 ## gSOAP WS-Discovery 设置
 [参考链接](https://www.genivia.com/doc/wsdd/html/wsdd_0.html)
 
-## ONVIF合规产品
-- ONVIF 合规产品可以更轻松地集成不同供应商的产品，为系统集成商和终端用户提供了更大的灵活性和产品选择，并避免锁定单一供应商从而提供更简
-  便的系统集成。迄今为止，市场上 拥有超过33,000种符合 ONVIF 标准的产品，并且安装了数百万台此类产品。
-- ONVIF [Profile合规产品页面](https://www.onvif.org/ch/conformant-products/)是市场上判断产品及供应商是否符合正式ONVIF标准的。
+## 代码生成
+
+## 协议解读
+
+## 版本发布
