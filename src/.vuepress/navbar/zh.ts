@@ -5,7 +5,7 @@ export const zhNavbar = navbar([
   "/guide/",
   "/tutorial/",
   {
-    text: "资源专区",
+    text: "免费专区",
     icon: "lightbulb",
     prefix: "reference/",
     children: ["protocols","books","tools","projects","school"],

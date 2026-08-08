@@ -30,7 +30,7 @@ highlights:
 
       - title: GB/T28181协议研究
         icon: bolt
-        details: 专注于官方GB/T28181协议文档解读，调研主流厂商ONVIF协议实现情况。
+        details: 专注于官方GB/T28181协议文档解读，调研主流厂商GB/T28181协议实现情况。
 
       - title: 网络传输协议研究
         icon: microscope
@@ -44,9 +44,9 @@ highlights:
         icon: microchip
         details: WebRTC/LIVE555/ZLMediaKit等项目。
 
-      - title: 编解码框架研究
+      - title: 多媒体框架研究
         icon: box-open
-        details: FFmpeg over CPU/GPU（英伟达|华为|寒武纪）编解码框架。
+        details: FFmpeg/GStreamer等项目。
 
 copyright: false
 footer:
