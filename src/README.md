@@ -32,17 +32,17 @@ highlights:
         icon: bolt
         details: 专注于官方GB/T28181协议文档解读，调研主流厂商GB/T28181协议实现情况。
 
-      - title: 网络传输协议研究
+      - title: 流媒体传输协议研究
         icon: microscope
         details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络协议。
 
-      - title: 编解码协议研究
+      - title: 编解码器研究
         icon: linux
         details: H265/H264/AAC/G711/OPUS/等编解码器。
 
-      - title: 流媒体项目研究
+      - title: 流媒体服务器研究
         icon: microchip
-        details: WebRTC/LIVE555/ZLMediaKit等项目。
+        details: LIVE555/ZLMediaKit/SRS等项目。
 
       - title: 多媒体框架研究
         icon: box-open
