@@ -27,8 +27,5 @@ icon: lightbulb
 ## gSOAP WS-Discovery 设置
 [参考链接](https://www.genivia.com/doc/wsdd/html/wsdd_0.html)
 
-## 代码生成
-
-## 协议解读
-
-## 版本发布
+## SDK版本发布
+[主页链接](https://github.com/JohntonYong)
