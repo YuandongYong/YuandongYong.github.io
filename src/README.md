@@ -42,7 +42,7 @@ highlights:
 
       - title: 流媒体服务器研究
         icon: microchip
-        details: LIVE555/ZLMediaKit/SRS等项目。
+        details: Live555/ZLMediaKit/Janus等项目。
 
       - title: 多媒体框架研究
         icon: box-open
