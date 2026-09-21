@@ -32,9 +32,9 @@ highlights:
         icon: bolt
         details: 专注于官方GB/T28181标准协议文档解读，调研主流厂商GB/T28181标准协议实现情况。
 
-      - title: 流媒体传输标准协议研究
+      - title: 流媒体标准协议研究
         icon: microscope
-        details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络标准协议。
+        details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等。
 
       - title: 编解码标准协议研究
         icon: linux
@@ -42,11 +42,11 @@ highlights:
 
       - title: 主流流媒体服务器研究
         icon: microchip
-        details: Live555/ZLMediaKit/Janus等项目。
+        details: Live555/ZLMediaKit/Janus等。
 
       - title: 主流编解码框架研究
         icon: box-open
-        details: FFmpeg/GStreamer等项目。
+        details: FFmpeg/GStreamer等。
 
 copyright: false
 footer:
