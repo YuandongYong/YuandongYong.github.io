@@ -44,7 +44,7 @@ highlights:
         icon: microchip
         details: Live555/ZLMediaKit/Janus等项目。
 
-      - title: 主流流媒体编解码框架研究
+      - title: 主流编解码框架研究
         icon: box-open
         details: FFmpeg/GStreamer等项目。
 
