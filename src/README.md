@@ -24,27 +24,27 @@ highlights:
       background-repeat: repeat
       background-size: initial
     features:
-      - title: ONVIF协议研究
+      - title: ONVIF标准协议研究
         icon: box-archive
-        details: 专注于官方ONVIF协议文档解读，调研主流厂商ONVIF协议实现情况。
+        details: 专注于官方ONVIF标准协议文档解读，调研主流厂商ONVIF标准协议实现情况。
 
-      - title: GB/T28181协议研究
+      - title: GB/T28181标准协议研究
         icon: bolt
-        details: 专注于官方GB/T28181协议文档解读，调研主流厂商GB/T28181协议实现情况。
+        details: 专注于官方GB/T28181标准协议文档解读，调研主流厂商GB/T28181标准协议实现情况。
 
-      - title: 流媒体传输协议研究
+      - title: 流媒体传输标准协议研究
         icon: microscope
-        details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络协议。
+        details: RTSP/RTMP/HTTP/HLS/SRT/RTP/SIP等网络标准协议。
 
-      - title: 编解码器研究
+      - title: 编解码标准协议研究
         icon: linux
-        details: H265/H264/AAC/G711/OPUS/等编解码器。
+        details: H265/H264/AAC/G711/OPUS等。
 
-      - title: 流媒体服务器研究
+      - title: 主流流媒体服务器研究
         icon: microchip
         details: Live555/ZLMediaKit/Janus等项目。
 
-      - title: 多媒体框架研究
+      - title: 主流流媒体编解码框架研究
         icon: box-open
         details: FFmpeg/GStreamer等项目。
 
